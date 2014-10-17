@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hob:home|Door43 (hob)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hob|d43-hob repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hob/archive/master.zip|d43-hob.zip]]
+
+**Recent Changes**
+{{changes>ns = hob}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hob|Ethnologue data]]
+
